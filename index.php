@@ -7,10 +7,10 @@
   <img src="/img/brian-revak.png">
   <h1>Brian Revak</h1>
   <ul id="social">
-    <li><a href=""><i class="ss-icon ss-social-circle">&#xF611;</i></a></li>
-    <li><a href=""><i class="ss-icon ss-social-circle">&#xF612;</i></a></li>
-    <li><a href=""><i class="ss-icon ss-social-circle">&#xF671;</i></a></li>
-    <li><a href=""><i class="ss-icon ss-social-circle">&#x2709;</i></a></li>
+    <li><a href="https://twitter.com/btrevak"><i class="ss-icon ss-social-circle">&#xF611;</i></a></li>
+    <li><a href="http://www.linkedin.com/in/btrevak"><i class="ss-icon ss-social-circle">&#xF612;</i></a></li>
+    <li><a href="https://github.com/BTRevak"><i class="ss-icon ss-social-circle">&#xF671;</i></a></li>
+    <li><a href="mailto:btrevak@gmail.com"><i class="ss-icon ss-social-circle">&#x2709;</i></a></li>
   </ul>
 </div><!--/page-wrap-->
 
