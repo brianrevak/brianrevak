@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 
-<img src="/img/water.jpg" class="bg">
+<img src="/img/water-sm.jpg" class="bg">
 
 <div id="page-wrap">
   <img src="/img/brian-revak.png">
