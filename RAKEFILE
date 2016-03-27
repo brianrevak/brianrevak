@@ -1,0 +1,9 @@
+desc 'deploy to kg via rsync'
+task :deploy do
+  puts 'Deploying to brianrevak.com, silence is golden...'
+  user = 'brian@brianrevak.com'
+  server = 's107775.gridserver.com'
+  path = 'domains/brianrevak.com/html'
+  sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
+  puts 'Some fries motha-trucker!'
+end
