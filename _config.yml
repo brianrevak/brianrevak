@@ -1,0 +1,12 @@
+# Site settings
+title: Brian Revak
+email: btrevak@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a native Floridian with early roots in entreprenuership. Currently bringing in new business opportunities for Parse.ly, a content analytics platform.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brianrevak.com" # the base hostname & protocol for your site
+twitter_username: brianrevak
+github_username:  brianrevak
+
+# Build settings
+markdown: kramdown
